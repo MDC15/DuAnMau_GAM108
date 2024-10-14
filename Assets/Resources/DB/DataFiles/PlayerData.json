@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name": "Player1",
+            "playTime": 120,
+            "rank": 1
+        },
+        {
+            "name": "Player2",
+            "playTime": 90,
+            "rank": 2
+        },
+        {
+            "name": "Player3",
+            "playTime": 60,
+            "rank": 3
+        }
+    ]
+}
